@@ -22,7 +22,4 @@
   
   ##
   
-  <div>
-      ![Snake animation](https://github.com/Fabricio-Fernandes51/Fabricio-Fernandes51/blob/output/github-contribution-grid-snake.svg)
-  </div>
-  
+
