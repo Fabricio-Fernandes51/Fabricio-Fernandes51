@@ -1,7 +1,4 @@
-### Olá! Fabricio Fernandes aqui 👋
-
-- 🌱 Estudando Sistemas Operacionais e Redes
-- 😄 Pronouns: Ele/Dele
+![2022061015093](https://user-images.githubusercontent.com/87492772/173130538-a9597e6e-36a2-4e89-aaed-a4126155c286.gif)
 
 <div align="center">
   <a href="https://github.com/Fabricio-Fernandes51">
